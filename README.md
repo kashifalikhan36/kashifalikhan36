@@ -1,4 +1,4 @@
-# Hi! I'm KAshif 
+# Hi! I'm Kashif 
 
 I've got lots of experience with Azure Cloud Stuff, Machine Learing and have been diving deep into the React/React Native and there Three-js Framework. My main focus is to make solution for world to make there life easier. 
 
